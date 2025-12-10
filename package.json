@@ -1,0 +1,25 @@
+{
+  "name": "design-patterns-typescript",
+  "version": "1.0.0",
+  "description": "This repository contains **practical implementations of software design patterns using TypeScript**, with a strong focus on **clean code**, **real-world use cases**, and **scalable application design**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardosantosp/design-patterns-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardosantosp/design-patterns-typescript/issues"
+  },
+  "homepage": "https://github.com/leonardosantosp/design-patterns-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.3"
+  }
+}
